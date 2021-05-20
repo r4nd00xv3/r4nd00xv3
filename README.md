@@ -2,7 +2,7 @@
 Meu nome é Ramon Andrade.<br/>
 <br/>
 Dev Full Stack em andamento...<br/>
-<br/> :rocket:  &nbsp; Buscando uma vaga de emprego na área de tecnologia.
+<br/> :rocket:  &nbsp; Buscando uma vaga de emprego em Dev.
 <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript,Java Spring Boot
 <br/>
 - 📍 Belém PA 
