@@ -21,17 +21,8 @@ Desenvolvedor de Software Java<br/>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
-
-
-<!---
-r4nd00xv3/r4nd00xv3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
 
 
 <!---
