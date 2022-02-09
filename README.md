@@ -1,7 +1,7 @@
 Meu nome é Ramon Andrade.<br/>
 <br/>
 Desenvolvedor de Software Java<br/>
-<br/> :rocket:  &nbsp; Buscando oportunidades de emprego em Dev Java Junior
+<br/> :rocket:  &nbsp; Buscando oportunidades de emprego em Dev Java Pleno
 <br/>
 - 📍 Belém PA 
 <br/>
