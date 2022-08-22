@@ -1,10 +1,17 @@
-Meu nome é Ramon Andrade.<br/>
-<br/>
-Desenvolvedor de Software Java<br/>
-<br/> :rocket:  &nbsp; Buscando oportunidades de emprego em Dev Java Pleno
-<br/>
-- 📍 Belém PA 
-<br/>
+# Olá, eu sou o Ramon! 👋
+
+
+## 🚀 Sobre mim
+Sou Desenvolvedor de Software Backend Java
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/r4nd00xv3)
+
+
+## 🛠 Habilidades
+Java, SpringBoot,SpringSecurity,Java EE,Hibernate,SQL
+
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramon.andradeic@gmail.com)](mailto:ramon.andradeic@gmail.com)
 
